@@ -4,4 +4,5 @@ Olá! Bem-vindo ao livro de receitas :handshake:
 
 * Pizza de frango
 * Pavê
+* Bolo de chocolate
 
